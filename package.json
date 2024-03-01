@@ -1,0 +1,23 @@
+{
+  "name": "node-multi-type-logger",
+  "version": "1.0.0",
+  "description": "A multi-type logger for Node.js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["logger", "nodejs", "multi-type", "json-logger", "log files"],
+  "author": "Arunya S",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aru-pro123/node-multi-type-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aru-pro123/node-multi-type-logger/issues"
+  },
+  "homepage": "https://github.com/aru-pro123/node-multi-type-logger",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
